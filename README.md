@@ -1,4 +1,4 @@
-# veriyapilarivealgoritmalarodev2soru1
+# veriyapilarivealgoritmalar
 
 N'inci Tribonacci Sayısı
 
